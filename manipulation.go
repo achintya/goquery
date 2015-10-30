@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/andybalholm/cascadia"
-	"golang.org/x/net/html"
+	"github.com/achintya/net/html"
 )
 
 // After applies the selector from the root document and inserts the matched elements

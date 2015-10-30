@@ -2,7 +2,7 @@ package goquery
 
 import (
 	"github.com/andybalholm/cascadia"
-	"golang.org/x/net/html"
+	"github.com/achintya/net/html"
 )
 
 // Add adds the selector string's matching nodes to those in the current

@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"golang.org/x/net/html"
+	"github.com/achintya/net/html"
 )
 
 // Test helper functions and members
